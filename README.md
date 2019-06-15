@@ -1,1 +1,1 @@
-Nothing to say about this for now.
+1. Delete all files under Src folder.
